@@ -14,7 +14,7 @@
   Se pueden incluir más examples en el feature usando el nombre de los productos de la página , tal como se ve en la imagen:
 
   ### Ejemplo visual:
-  <img align="center" src="./rsc_image/ftr_exm.png" alt="feature examples view" width="200px" height="auto">
+  <img align="center" src="https://github.com/JampiV/serenity-web-test-automation/blob/master/rsc_img/ftr_exm.png" alt="feature examples view" width="200px" height="auto">
 
 ---
 
@@ -25,6 +25,6 @@
 
 
   ### Ejemplo visual:
-  <img align="center" src="./rsc_image/cmd_crl.png" alt="terminal view example" width="200px" height="auto">
+  <img align="center" src="https://github.com/JampiV/serenity-web-test-automation/blob/master/rsc_img/cmd_clr.png" alt="terminal view example" width="200px" height="auto">
 
 ---
